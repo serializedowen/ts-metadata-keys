@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "UMD",
+    "target": "ES3",
+    "outDir": "lib",
+    "lib": ["es5"]
+  },
+}
